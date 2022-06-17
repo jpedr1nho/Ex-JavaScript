@@ -1,1 +1,1 @@
-# Ex-JavaScript
+# Exercício-JavaScript
